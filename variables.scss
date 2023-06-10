@@ -1,0 +1,13 @@
+// we can create variables here and remove the repition of our code
+
+$color: red;
+
+ul {
+  font-size: 14px;
+  color: $color;
+}
+
+ol {
+  font-size: 18px;
+  color: $color;
+}
